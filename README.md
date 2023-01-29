@@ -1,2 +1,2 @@
 # Snake-Game
-Its a classic Snake Game written in x86 Assembly Language. In order to run it. You need a DOSBox and NASM Assembler to assemble and execute the code.
+This project is a classic Snake game written in x86 Assembly language, with over 1200 lines of code. The purpose of the project was to develop an understanding of how code is compiled into Assembly language and how Assembly language can be difficult and time-consuming to work with without high-level programming languages such as C++. Through this project, I gained a deeper appreciation for the advantages of using high-level programming languages in software development.
