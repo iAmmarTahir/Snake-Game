@@ -1,2 +1,5 @@
 # Snake-Game
-This project is a classic Snake game written in x86 Assembly language, with over 1200 lines of code. The purpose of the project was to develop an understanding of how code is compiled into Assembly language and how Assembly language can be difficult and time-consuming to work with without high-level programming languages such as C++. Through this project, I gained a deeper appreciation for the advantages of using high-level programming languages in software development.
+
+This is a Snake game implementation in x86 Assembly language, featuring over 1200 lines of code. The project was created as an educational tool to demonstrate the process of compiling code into Assembly and the difficulties of coding in Assembly without the aid of higher-level languages such as C++. The game features classic Snake gameplay, where the player controls a snake that moves across the screen, eating food and growing longer, while avoiding collision with walls or its own body. The project showcases the efficiency and low-level control offered by Assembly programming, but also highlights the need for higher-level languages in modern software development.
+
+
